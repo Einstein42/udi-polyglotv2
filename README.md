@@ -1,3 +1,8 @@
+# THIS IS NO LONGER MAINTAINED AT THIS LOCATION. USE THE OFFICIAL REPO
+
+[UDI OFFICIAL POLYGLOTV2 REPOSITORY LOCATION](https://github.com/UniversalDevicesInc/polyglot-v2)
+
+
 # UDI Polyglot v2
 
 [![Build Status](https://travis-ci.org/UniversalDevicesInc/polyglot-v2.svg?branch=master)](https://travis-ci.org/UniversalDevicesInc/polyglot-v2)
